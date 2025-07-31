@@ -1,10 +1,10 @@
-# 🏠 Thermal Insulation in Buildings
+# Thermal Insulation in Buildings
 
 This project presents a detailed research report on the role and impact of thermal insulation in modern building construction. It explores key principles, types of materials, practical applications, and the significant energy efficiency benefits of proper insulation techniques.
 
 ---
 
-## 📚 Table of Contents
+## Table of Contents
 - [Overview](#overview)
 - [Contents](#contents)
 - [Purpose](#purpose)
@@ -14,12 +14,12 @@ This project presents a detailed research report on the role and impact of therm
 
 ---
 
-## 📌 Overview
+## Overview
 Thermal insulation helps maintain comfortable indoor environments by controlling heat flow between building interiors and exteriors. This report analyzes methods and materials used to insulate buildings, with attention to energy savings and sustainability.
 
 ---
 
-## 🧱 Contents
+## Contents
 - Introduction to insulation principles
 - Material comparisons (EPS, fiberglass, mineral wool, etc.)
 - U-value and R-value fundamentals
@@ -30,26 +30,26 @@ Thermal insulation helps maintain comfortable indoor environments by controlling
 
 ---
 
-## 🎯 Purpose
+## Purpose
 To inform engineers, architects, and sustainability advocates on how thermal insulation enhances energy efficiency, reduces operational costs, and supports sustainable building practices.
 
 ---
 
-## ⚡ Highlights
+## Highlights
 - U-value reduced from **3.73 to 0.589 W/m²K** using EPS insulation  
 - Energy savings of **up to 30%** in cold climate residential applications  
 - Graphical insight into how insulation thickness affects performance  
 
 ---
 
-## 🏗️ Case Studies
+## Case Studies
 - **EPS Retrofit in Commercial Building**: Reduced energy use by 25%  
 - **Residential Upgrade**: Enhanced comfort and reduced heating bills by 30%  
 - **Energy Performance Modeling**: Showcased long-term savings through U-value improvement  
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 Strategic thermal insulation is key to building energy-efficient and comfortable living spaces. This research demonstrates the importance of material selection, climate-specific considerations, and proper installation methods.
 
 ---
